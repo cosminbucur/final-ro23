@@ -26,9 +26,9 @@
 # plan
 [x] learn story mapping concept [story-mapping.drawio]
 
-[ ] define project main objective [backlog.md]
+[x] define project main objective [backlog.md]
 
-[ ] define entities [backlog.md]
+[x] define entities [backlog.md]
 
 [ ] define epics [backlog.md]
 
@@ -39,7 +39,6 @@
 
 # backlog
 [ ] obtain backlog (all user stories)
-[backlog](https://freeminions.atlassian.net/jira/software/projects/DEV/boards/2/backlog)
 
 [ ] groom user stories (add details / acceptance criteria)
 
@@ -56,11 +55,11 @@
 # development
 [ ] select technology stack
 
-[ ] define architecure
+[ ] define architecture
 
-[ ] setup CI/CD pipeline
+[x] setup CI/CD pipeline
 
-[ ] setup git repository
+[x] setup git repository
 
 [ ] setup dev environment
     [intellij-setup.md]

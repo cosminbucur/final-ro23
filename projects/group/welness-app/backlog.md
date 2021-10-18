@@ -1,7 +1,9 @@
-TODO project
-TODO florentina
-AlinNorocea
-TODO ioan
+## PROJECT  wellness-app
+## REPO     https://github.com/Ioan-Alexandru96/wellness-app
+## TEAM     Team 2
+- GIT       FlorentinaDascalitei
+- GIT       AlinNorocea
+- GIT       Ioan-Alexandru96
 
 # 1. define objective
 

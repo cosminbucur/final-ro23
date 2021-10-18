@@ -1,5 +1,6 @@
-TODO project
-DavidIrm
+## PROJECT  hr-app
+## REPO     https://github.com/DavidIrm/hr-app
+- GIT       DavidIrm
 
 # 1. define objective
 

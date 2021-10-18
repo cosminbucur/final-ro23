@@ -1,7 +1,9 @@
-https://github.com/GeorgeCRM/my-home
-anamarianegulescu
-GeorgeCRM
-GianiGiani99
+## PROJECT  my-home
+## REPO     https://github.com/GeorgeCRM/my-home
+## TEAM     Enigma
+- GIT       anamarianegulescu
+- GIT       GeorgeCRM
+- GIT       GianiGiani99
 
 # 1. define objective
 

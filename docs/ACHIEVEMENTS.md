@@ -124,14 +124,14 @@ through gamification
 - help other teams
 
 ## planning
-- backlog
-- design
-- routing
+- backlog: animal-app
+- design: animal-app
+- routing: animal-app
 
 ## technical skills
-- github repository: Cristian, George
-- project structure
-- intellij setup
+- github repository: Cristian, George, animal-app, Stefan, piata-mica
+- project structure: animal-app
+- intellij setup: Giani
 - mysql workbench
 - database schema
 

@@ -1,5 +1,6 @@
-https://github.com/catalinaluta/travel-app
-catalinaluta
+## PROJECT  travel-app
+## REPO     https://github.com/catalinaluta/travel-app
+- GIT       catalinaluta
 
 # 1. define objective
 

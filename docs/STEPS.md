@@ -20,12 +20,12 @@
 
 # collaboration
 - [x] define workflow [agile.drawio]
-- [x] setup communication
+- [x] setup communication (slack threads)
 
 # plan
 - [x] learn story mapping concept [story-mapping.drawio]
-- [x] define project main objective [backlog.md]
-- [x] define entities [backlog.md]
+- [ ] define project main objective [backlog.md]
+- [ ] define entities [backlog.md]
 - [ ] define epics [backlog.md]
 
 # design
@@ -41,6 +41,24 @@
 - [ ] plan sprints (1 week period)
 - [ ] start sprint
 
+# infrastructure
+- [x] select technology stack [technology stack.drawio]
+- [x] define architecture [architecture.drawio]
+- [x] present CI/CD pipeline [CI-CD.drawio]
+- [ ] present database model [database model.drawio] [dbschema.mwb]
+  
+# development environment
+- [x] setup java sdk 11
+- [x] setup intellij [intellij setup.md] [intellij shortcuts.md]
+- [x] setup mysql
+- [x] setup mysql workbench
+- [x] setup git [git setup.md]
+- [x] setup git repository
+
+- [x] create backend project structure
+- [ ] setup code conventions
+    - [ ] [conventions java.md]
+
 # learn how to learn
 - [ ] present concepts
 - [ ] present diagrams
@@ -53,16 +71,5 @@
 # learn to structure knowledge
 - [ ] present dev path wiki [frontend-structure.md]
 
-# development
-- [ ] select technology stack
-- [ ] define architecture
-- [x] setup CI/CD pipeline
-- [x] setup git repository
-- [ ] setup dev environment
-    [intellij setup.md]
-    [intellij-shortcuts.md]
-- [ ] create project structure
-- [ ] setup code conventions
-    - [ ] conventions java
-
+# learn to present
 - [ ] create presentation [final presentation - sample.pdf]

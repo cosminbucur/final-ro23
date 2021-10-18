@@ -1,7 +1,9 @@
-https://github.com/2danaciupe/animal-app
-Madalina-Viziteu
-AlbuMihaela
-2danaciupe
+## PROJECT  animal-app
+## REPO     https://github.com/2danaciupe/animal-app
+## TEAM     SOUL
+- GIT       Madalina-Viziteu
+- GIT       AlbuMihaela
+- GIT       2danaciupe
 
 # 1. define objective
 

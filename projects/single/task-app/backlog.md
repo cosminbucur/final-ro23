@@ -1,5 +1,6 @@
-https://github.com/CristiHE/task-app
-CristiHE
+## PROJECT  task-app
+## REPO     https://github.com/CristiHE/task-app
+- GIT       CristiHE
 
 # 1. define objective
 

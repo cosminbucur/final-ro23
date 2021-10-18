@@ -1,5 +1,6 @@
-https://github.com/Brebenel91/cake-shop
-Brebenel91
+## PROJECT  wellness-app
+## REPO     https://github.com/Brebenel91/cake-shop
+- GIT       Brebenel91
 
 # 1. define objective
 

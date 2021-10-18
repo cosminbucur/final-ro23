@@ -59,7 +59,7 @@
 - [x] setup CI/CD pipeline
 - [x] setup git repository
 - [ ] setup dev environment
-    [intellij-setup.md]
+    [intellij setup.md]
     [intellij-shortcuts.md]
 - [ ] create project structure
 - [ ] setup code conventions

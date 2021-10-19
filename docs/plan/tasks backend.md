@@ -1,7 +1,7 @@
 # backend tasks
 
-# setup project structure @dana
-    - pom.xml vlad
+# setup project structure
+    - pom.xml
     - create folders
         src.main.java
         src.main.resources

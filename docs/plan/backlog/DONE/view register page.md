@@ -9,21 +9,20 @@
 - input validation *
 
 # frontend
-
-## form template
-- email input
-- password input
-- first name input
-- last name input
-- gdpr checkbox *
-- submit button "Register"
+- form template
+  - email input
+  - password input
+  - first name input
+  - last name input
+  - gdpr checkbox *
+  - submit button "Register"
 
 # backend
 - create schema
 - database connection
     - spring boot parent
     - mysql connector 
-    - spring data jpa (hibernate)
+    - spring data jpa
 
 - main spring boot class
 - entity

@@ -21,6 +21,7 @@
 # collaboration
 - [x] define workflow [agile.drawio]
 - [x] setup communication (slack threads)
+- [ ] setup polling https://www.polleverywhere.com/activities
 
 # plan
 - [x] learn story mapping concept [story-mapping.drawio]
@@ -55,9 +56,14 @@
 - [x] setup git [git setup.md]
 - [x] setup git repository
 
+# development
 - [x] create backend project structure
 - [ ] setup code conventions
     - [ ] [conventions java.md]
+- [ ] backend tasks [tasks backend.md]
+- [ ] frontend tasks [tasks frontend.md]
+- [ ] implement features
+- [ ] add styling
 
 # learn how to learn
 - [ ] present concepts

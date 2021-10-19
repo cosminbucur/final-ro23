@@ -3,6 +3,9 @@
 ## dependencies
 - pom
 
+## database
+- create db schema
+
 ## create initial data
 - persist an admin user
 - add initial data

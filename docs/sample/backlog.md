@@ -1,3 +1,8 @@
+## PROJECT  awesome-app
+## REPO     https://github.com/cosminbucur/project-management
+## TEAM     WILD
+- GIT       cosminbucur
+
 # 1. define objective
 
 # 2. define entities

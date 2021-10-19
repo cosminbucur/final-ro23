@@ -1,4 +1,4 @@
-package com.sda.project.recap;
+package recap;
 
 public class MainClass {
 

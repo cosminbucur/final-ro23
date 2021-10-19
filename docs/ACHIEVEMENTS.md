@@ -125,7 +125,7 @@ through gamification
 
 ## planning
 - backlog: animal-app
-- board usage
+- board usageboard
 - design: animal-app
 - routing: animal-app
 

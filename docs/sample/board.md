@@ -1,7 +1,7 @@
 # sprint board
 
 # TODO
-
+- setup database @
 
 # IN PROGRESS
 

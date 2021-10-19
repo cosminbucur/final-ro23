@@ -1,5 +1,14 @@
 # backend tasks
 
+# setup project structure @dana
+    - pom.xml vlad
+    - create folders
+        src.main.java
+        src.main.resources
+    - create packages
+        src.main.java.com.sda.project
+            Application
+
 ## dependencies
 - pom
 
@@ -46,5 +55,5 @@
 
 ## testing
 - acceptance testing
-- integration testing
 - unit testing (mocks)
+- integration testing

@@ -1,4 +1,4 @@
-package recap;
+package recap.fundamentals;
 
 public class MainClass {
 

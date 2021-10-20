@@ -1,81 +1,110 @@
-# steps
-
 # intro
-- [x] attendance
-- [x] my intro
-- [x] team intro
+- attendance
+- my intro
+- team intro
 
 # objectives
 - work in a dev environment
 - learn how to learn
 - learn to structure knowledge
 - build the final project
-- learn how to present
+- learn how to Demo
 
 # people
-- [x] hire people (assign grades to people) [team.drawio]
-- [x] define roles
-- [x] split teams
-- [x] present achievements gamification [ACHIEVEMENTS.md]
+- hire people (assign grades to people) [team.drawio]
+- define roles [team.drawio]
+- split teams [team.drawio]
+- learn achievements gamification [ACHIEVEMENTS.md]
 
 # collaboration
-- [x] define workflow [agile.drawio]
-- [x] setup communication (slack threads)
-- [ ] setup polling https://www.polleverywhere.com/activities
+- setup live questions https://www.polleverywhere.com/activities
+- setup remote questions - slack threads
 
 # plan
-- [x] learn story mapping concept [story-mapping.drawio]
-- [ ] define project main objective [backlog.md]
+- learn story mapping concept [story-mapping.drawio]
+- define workflow [agile.drawio]
+- define project name
+- [ ] define project purpose [backlog.md]
 - [ ] define entities [backlog.md]
 - [ ] define epics [backlog.md]
 
 # design
+- learn to design [design sample.drawio]
 - [ ] create design for all pages [design.drawio]
+- learn to create routing plan [routing sample.drawio]
 - [ ] create routing [routing.drawio]
 
-# backlog
+# refinement
+- [ ] learn to create backlog [backlog sample.md]
 - [ ] obtain backlog (all user stories)
-- [ ] groom user stories (add details / acceptance criteria)
+- [ ] learn to define user stories [user story sample.md]
+- [ ] define user stories (add details / acceptance criteria)
 - [ ] estimate user stories (with story points 1 2 3 5 8 16)
-- [ ] define backend tasks [tasks-backend.md]
-- [ ] define frontend tasks [tasks-frontend.md]
+- learn definition of ready [definition of ready.md]
+- [ ] learn to define tasks and bugs
+  - [task sample.md]
+  - [bug sample.md]
+- learn definition of ready [definition of done.md]
+- [ ] learn to define backend tasks [tasks backend sample.md]
+- [ ] define backend tasks [tasks backend.md]
+- [ ] learn to define backend tasks [tasks frontend sample.md]
+- [ ] define frontend tasks [tasks frontend.md]
+
+# planning
 - [ ] plan sprints (1 week period)
+- [ ] assign tasks
 - [ ] start sprint
 
 # infrastructure
-- [x] select technology stack [technology stack.drawio]
-- [x] define architecture [architecture.drawio]
-- [x] present CI/CD pipeline [CI-CD.drawio]
-- [ ] present database model [database model.drawio] [dbschema.mwb]
+- learn technology stack [technology stack sample.drawio]
+- define technology stack [technology stack.drawio]
+- learn architecture [architecture sample.drawio]
+- define architecture [architecture.drawio]
+- learn CI/CD pipeline [CI-CD.drawio]
+- [ ] learn database model 
+    - [database model sample.drawio]
+    - [database model sample.mwb]
+- [ ] create database model 
+    - [database model.mwb]
   
 # development environment
-- [x] setup java sdk 11
-- [x] setup intellij [intellij setup.md] [intellij shortcuts.md]
-- [x] setup mysql
-- [x] setup mysql workbench
-- [x] setup git [git setup.md]
-- [x] setup git repository
+- setup java sdk 11
+- setup intellij
+    - [intellij setup.md] 
+    - [intellij shortcuts.md]
+- setup mysql
+- setup mysql workbench
+- setup git [git setup.md]
+- setup git repository
 
 # development
-- [x] create backend project structure
+- create backend project structure
 - [ ] setup code conventions
     - [ ] [conventions java.md]
+    - [ ] [conventions thymeleaf.md]
 - [ ] backend tasks [tasks backend.md]
 - [ ] frontend tasks [tasks frontend.md]
-- [ ] implement features
+- [ ] implement features [board.md]
 - [ ] add styling
 
+---
+
 # learn how to learn
-- [ ] present concepts
-- [ ] present diagrams
-- [ ] present samples
-- [ ] present java core
-- [ ] present persistence
-- [ ] present web
-- [ ] present sda-group project [README.md]
+- [ ] learn concepts
+- [ ] learn diagrams
+- [ ] learn samples
+- [ ] learn java core
+  - [ ] recap oop story
+  - [ ] recap functional programming
+- [ ] learn persistence
+  - [ ] recap hibernate
+- [ ] learn web
+  - [ ] recap spring
+- [ ] learn sda-group project [README.md]
 
 # learn to structure knowledge
-- [ ] present dev path wiki [frontend-structure.md]
+- [ ] learn dev path wiki [frontend-structure.md]
 
-# learn to present
-- [ ] create presentation [final presentation - sample.pdf]
+# learn to demo
+- [ ] learn presentation [cosmin bucur - awesome-app.pdf]
+- [ ] create presentation [student - project.pdf]

@@ -1,12 +1,9 @@
 # Achievements
 
-through gamification
-
----
-
 # 1. backend
 
 ## dependencies
+- maven
 - pom
 
 ## create initial data
@@ -15,17 +12,18 @@ through gamification
 
 ## security
 - security config
-    - authentication
-    - authorization
-    - allow static resources (css, js, images)
-    - allow /login /register
-    - secure api
-    - use password encoder
+- authentication
+- authorization
+- allow static resources
+- allow /login /register
+- secure api
+- use password encoder
 - global exception handler
 - user details
 - user details service
 
-## controller
+## web
+
 - controller
 
 ## service
@@ -36,27 +34,32 @@ through gamification
 - dto
 - mapper
 
-## repository
+## persistence
 - repository
+- h2 database
+- HQL / JPQL language
 
 ## model
 - parent
 - child
 - relationships
 
-## extra
+## config
+- spring profiles
+- application.yml
 - banner
 
 ## testing
 - acceptance testing
 - integration testing
 - unit testing (mocks)
+- assertj
 
 ## logging
-- add logback config
+- logback config
 
 ## swagger
-- add swagger support
+- swagger support
 
 ---
 
@@ -70,7 +73,7 @@ through gamification
 
 ## layout
 - body
-- grid (columns, gutters, margins, padding)
+- grid
 - spacing
 - flexbox
 - load custom css, js
@@ -119,26 +122,46 @@ through gamification
 
 ## soft skills
 - communication
+- slack threads
 - presentation
 - knowledge sharing
 - help other teams
+- independence
 
 ## planning
-- backlog: animal-app
-- board usageboard
-- design: animal-app
-- routing: animal-app
+- backlog
+- board
+- design
+- daigrams.net
+- routing
 
 ## technical skills
-- github repository: Cristian, George, animal-app, Stefan, piata-mica
-- project structure: animal-app
-- intellij setup: Giani
+- documentation
+- markdown
+- github repository
+- github access
+- commit messages
+- project structure
+- intellij setup
+- intellij shortcuts
+- SQL
+- mysql database
 - mysql workbench
-- database schema
+- database model
 
 ## write code
-- commit messages
-- clean code
+- oop
+- exceptions
 - collections
-- design patterns
 - functional programming
+- clean code
+- design patterns
+
+## frameworks
+- spring core
+- spring boot
+- hibernate
+- spring data jpa
+- spring security
+- spring thymeleaf
+- bootstrap

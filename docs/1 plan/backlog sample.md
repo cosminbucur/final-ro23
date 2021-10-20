@@ -3,7 +3,7 @@
 ## TEAM     WILD
 - GIT       cosminbucur
 
-# 1. define objective
+# 1. define purpose
 
 # 2. define entities
 

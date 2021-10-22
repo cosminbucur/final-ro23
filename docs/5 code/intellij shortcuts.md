@@ -30,6 +30,7 @@ extract interface: `right click > refactor`
 `CTRL + SHIFT up` - move code up
 `CTRL + SHIFT down` - move code down
 `hold ALT + drag click` - multi cursor
+`CTRL + ALT + SHIFT + click` - evaluate
 
 generate test: click on class name, `ALT + ENTER`
 

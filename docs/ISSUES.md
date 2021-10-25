@@ -27,6 +27,7 @@
 - all - git access
 
 ## maven
+- TODO david - dependencies
 
 ## mysql workbench
 

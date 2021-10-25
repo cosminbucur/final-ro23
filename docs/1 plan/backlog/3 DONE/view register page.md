@@ -24,8 +24,24 @@
     - mysql connector 
     - spring data jpa
 
+- maven dependencies
 - main spring boot class
 - entity
+  - User
 - repository
+  - UserRepository
 - service
+  - UserService
 - controller
+  - UserController
+
+- spring security config
+  - authentication
+  - authorization
+  - user details service
+    - load user by username
+
+no security
+no backend validation
+no frontend validation
+no styling

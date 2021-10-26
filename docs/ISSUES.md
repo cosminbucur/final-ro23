@@ -7,7 +7,7 @@
 - mica piata - backlog
 
 ## design
-- TODO wellness app - design + routing
+- wellness app - design + routing
 - my home - design + routing
 - TODO hr app - design + routing
 - mica piata - design + routing
@@ -40,7 +40,7 @@
 ## hibernate
 
 ## spring
-
+- all - spring security config
 ---
 
 # frontend

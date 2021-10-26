@@ -21,9 +21,7 @@ public class CustomAccessDeniedHandler implements AccessDeniedHandler {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
 
         if (authentication != null) {
-            log.info("User '" + authentication.getName()
-                    + "' attempted to access the URL: "
-                    + httpServletRequest.getRequestURI());
+            log.info("User {} attempted to access the URL: {}", authentication.getName(), httpServletRequest.getRequestURI());
         }
         httpServletResponse.sendRedirect(httpServletRequest.getContextPath() + "/access-denied");
     }

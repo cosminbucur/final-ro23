@@ -21,5 +21,4 @@ public class ErrorHandler {
         model.addAttribute("errorMessage", errorMessage);
         return "error";
     }
-
 }

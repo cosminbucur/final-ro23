@@ -1,6 +1,5 @@
 package com.sda.project.model;
 
-import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
@@ -8,11 +7,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
-import javax.persistence.OneToMany;
 import javax.persistence.Table;
-import java.util.HashSet;
 import java.util.Objects;
-import java.util.Set;
 
 @Entity
 @Table(name = "project")
@@ -24,11 +20,18 @@ public class Project {
     private String name;
     private String projectKey;
 
+    // lazy loading
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "user_id")
     private User projectLead;
 
+    // needed by hibernate
     public Project() {
+    }
+
+    public Project(String name, String projectKey) {
+        this.name = name;
+        this.projectKey = projectKey;
     }
 
     public Long getId() {
@@ -55,6 +58,7 @@ public class Project {
         this.projectKey = projectKey;
     }
 
+    // entities are compared by id
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -68,6 +72,7 @@ public class Project {
         return Objects.hash(id);
     }
 
+    // don't add relationships
     @Override
     public String toString() {
         return "Project{" +

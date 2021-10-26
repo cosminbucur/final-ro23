@@ -28,6 +28,10 @@
 
 ## maven
 - TODO david - dependencies
+- florentina - intellij ultimate dependencies
+- stefan - maven properties
+- catalina - maven dependency
+- ! cristian - intellij types
 
 ## mysql workbench
 
@@ -41,6 +45,9 @@
 
 ## spring
 - all - spring security config
+- dana - spring security
+- catalina - spring security
+
 ---
 
 # frontend

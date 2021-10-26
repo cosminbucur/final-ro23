@@ -10,6 +10,10 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ *  Decorator pattern
+ *  UserPrincipal enhances the regular user with GrantedAuthorities (permissions)
+ */
 public class UserPrincipal implements UserDetails {
 
     private final User user;
@@ -23,7 +27,7 @@ public class UserPrincipal implements UserDetails {
     // prefix each role name with "ROLE_"
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
-        final Set<GrantedAuthority> authorities = new HashSet<>();
+        Set<GrantedAuthority> authorities = new HashSet<>();
         this.roles.forEach(role -> {
             GrantedAuthority authority = new SimpleGrantedAuthority("ROLE_" + role.getType().name());
             authorities.add(authority);

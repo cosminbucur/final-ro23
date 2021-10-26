@@ -1,7 +1,7 @@
 # sprint board
 
 # TODO
-- setup database @
+- setup database @cosmin
 
 # IN PROGRESS
 
@@ -10,4 +10,4 @@
 
 
 # DONE
-setup git repository @dana
+- setup git repository @cosmin

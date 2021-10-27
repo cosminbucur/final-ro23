@@ -1,15 +1,15 @@
 # 1 plan
 
 ## backlog
-- TODO wellness app - backlog
+- wellness app - backlog
 - my home - backlog
-- TODO hr app - backlog
+- hr app - backlog
 - mica piata - backlog
 
 ## design
 - wellness app - design + routing
 - my home - design + routing
-- TODO hr app - design + routing
+- hr app - design + routing
 - mica piata - design + routing
 
 # 2 environment
@@ -25,13 +25,14 @@
 - stefan - git repo
 - ionut - git repo
 - all - git access
+- brebenel - git merge
 
 ## maven
 - david - dependencies
 - florentina - intellij ultimate dependencies
 - stefan - maven properties
 - catalina - maven dependency
-- ! cristian - intellij types
+- cristian - intellij types
 
 ## mysql workbench
 
@@ -40,6 +41,7 @@
 # 3 backend
 
 ## java
+- brebenel - folder structure
 
 ## hibernate
 
@@ -47,13 +49,15 @@
 - all - spring security config
 - dana - spring security
 - catalina - spring security
-- ! david - db connection in application.yml
+- david - db connection in application.yml
+
 ---
 
 # frontend
 
 ## thymeleaf
-- [ ] brebenel - 404
+- TODO david - register not working
+- TODO soul - register not entering breakpoint
 
 ## boostrap
 
@@ -63,3 +67,4 @@
 ## david QA
 - [ ] http servers: tomcat, wildfly, glassfish, weblogic
 - [ ] CI-CD, devops
+- [ ] plsql in java

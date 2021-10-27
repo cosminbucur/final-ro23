@@ -24,15 +24,26 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http.authorizeRequests()
+                // common
                 .antMatchers("/", "/index" ,"/register", "/register/add").permitAll()
+
+                // static resources
                 .antMatchers("/static/favicon.ico", "/images/**", "/js/**", "/css/**").permitAll()
+
+                // features and permissions
                 .antMatchers("/users").hasRole("ADMIN")
                 .anyRequest().authenticated();
 
+        // add custom login form
         http.formLogin(form -> form.loginPage("/login").permitAll());
+
+        // login with email as username
         http.formLogin().usernameParameter("email");
+
+        // after successful login go to page
         http.formLogin().defaultSuccessUrl("/home", true);
 
+        // after logout go to login
         http.logout()
                 .logoutRequestMatcher(new AntPathRequestMatcher("/logout"))
                 .logoutSuccessUrl("/login")
@@ -40,6 +51,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .deleteCookies("JSESSIONID")
                 .permitAll();
 
+        // add a custom access denied handler 404 unauthorized
         http.exceptionHandling().accessDeniedHandler(accessDeniedHandler());
     }
 

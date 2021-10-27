@@ -27,6 +27,7 @@ public class ProjectController {
         this.userService = userService;
     }
 
+    // mapping
     @GetMapping("/projects")
     public String showProjectsPage(Model model) {
         model.addAttribute("projects", projectService.findAll());

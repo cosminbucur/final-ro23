@@ -27,12 +27,17 @@ public class UserController {
 
     // register
 
+    // get page
     @GetMapping("/register")
     public String showRegisterPage(Model model) {
+        // "userDto" will be used in html
+        // userDto object represents the java instance
         model.addAttribute("user", new User());
+        // folder / page name
         return "user/register";
     }
 
+    // action
     @PostMapping("/register/add")
     public String add(Model model, @ModelAttribute User user) {
         try {

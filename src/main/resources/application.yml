@@ -4,12 +4,12 @@ spring:
   # mysql datasource configuration
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/animal-app?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/agile-app?serverTimezone=UTC
     username: root
     password: root
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: create-drop
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQL8Dialect

@@ -27,7 +27,7 @@
 - all - git access
 
 ## maven
-- TODO david - dependencies
+- david - dependencies
 - florentina - intellij ultimate dependencies
 - stefan - maven properties
 - catalina - maven dependency
@@ -47,7 +47,7 @@
 - all - spring security config
 - dana - spring security
 - catalina - spring security
-
+- ! david - db connection in application.yml
 ---
 
 # frontend

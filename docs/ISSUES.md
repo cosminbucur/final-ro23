@@ -57,7 +57,7 @@
 
 ## thymeleaf
 - TODO david - register not working
-- TODO soul - register not entering breakpoint
+- soul - register not entering breakpoint
 
 ## boostrap
 
@@ -65,6 +65,8 @@
 - [ ] brebenel - navbar alignment
 
 ## david QA
+- [ ] big data: splunk
+- [ ] databases: plsql in java
 - [ ] http servers: tomcat, wildfly, glassfish, weblogic
 - [ ] CI-CD, devops
-- [ ] plsql in java
+- [ ] logs: cougar

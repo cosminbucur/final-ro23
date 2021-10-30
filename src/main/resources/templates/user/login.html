@@ -5,11 +5,9 @@
     <title>Login</title>
 </head>
 
-<body th:style="'background: url(https://content.thriveglobal.com/wp-content/uploads/2020/04/0-6.jpeg) no-repeat center center fixed;'">
+<body>
 
 <div class="container-fluid">
-
-    <img class="rounded mx-auto d-block" th:src="@{/images/icon-192x192.png}"/>
 
     <p class="error" th:if="${loginError}">Wrong email or password</p>
 

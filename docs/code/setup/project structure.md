@@ -65,6 +65,8 @@ src.main.resources
     templates
         error
             access-denied.html
+            error-404.html
+            error-500.html
         fragments
             footer.html
             footer-js.html
@@ -72,14 +74,13 @@ src.main.resources
             header.html
             sidebar.html
         user
+            login.html
             register.html
             forgot-password.html
         project
             projects.html
             project-add.html
             project-edit.html
-        error.html
-        login.html
         home.html
         index.html
     application.yml

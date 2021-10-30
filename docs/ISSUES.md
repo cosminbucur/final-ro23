@@ -56,8 +56,13 @@
 # frontend
 
 ## thymeleaf
-- TODO david - register not working
+- david - fix security
 - soul - register not entering breakpoint
+- ! travel-app - fix security
+- ! travel app - fix view register page
+- ! animal-app - fix security
+- ! animal-app - view page
+- TODO fix wellness-app security
 
 ## boostrap
 

@@ -1,7 +1,7 @@
 # acceptance criteria
 - user click `Register` and navigates to register form
 - user inputs data
-    - email input (email format *) 
+    - email input (email format *)
     - password input
     - first name input
     - last name input
@@ -10,36 +10,36 @@
 
 # frontend
 - form template
-  - email input
-  - password input
-  - first name input
-  - last name input
-  - gdpr checkbox *
-  - submit button "Register"
+    - email input
+    - password input
+    - first name input
+    - last name input
+    - gdpr checkbox *
+    - submit button "Register"
 
 # backend
 - create schema
 - database connection
     - spring boot parent
-    - mysql connector 
+    - mysql connector
     - spring data jpa
 
 - maven dependencies
 - main spring boot class
 - entity
-  - User
+    - User
 - repository
-  - UserRepository
+    - UserRepository
 - service
-  - UserService
+    - UserService
 - controller
-  - UserController
+    - UserController
 
 - spring security config
-  - authentication
-  - authorization
-  - user details service
-    - load user by username
+    - authentication
+    - authorization
+    - user details service
+        - load user by username
 
 no security
 no backend validation

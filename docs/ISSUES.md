@@ -56,18 +56,48 @@
 # frontend
 
 ## thymeleaf
-- david - fix security
 - soul - register not entering breakpoint
-- ! travel-app - fix security
-- ! travel app - fix view register page
-- ! animal-app - fix security
-- ! animal-app - view page
-- TODO fix wellness-app security
 
 ## boostrap
 
 ## css
 - [ ] brebenel - navbar alignment
+
+---
+
+# code review
+
+### animal-app - ON TRACK
+- fix security
+- view pets page
+
+### cake-shop - ON TRACK
+not following standard
+
+### hr-app - behind
+- fix security
+
+### mica-piata - BEHIND
+- add docs
+
+### my-home - BLOCKED
+
+### patent-app - BEHIND
+using localhost 8080
+- fix security
+
+### task-app - BEHIND
+- add docs
+- fix security
+
+### travel-app - BEHIND
+- add docs
+- fix security
+- fix view register page
+
+### wellness-app - BEHIND
+- add docs
+- fix security
 
 ## david QA
 - [ ] big data: splunk

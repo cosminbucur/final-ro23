@@ -42,8 +42,10 @@
 
 ## java
 - brebenel - folder structure
+- brebenel - object relationships
 
 ## hibernate
+- all - one to many bidirectional
 
 ## spring
 - all - spring security config
@@ -61,7 +63,6 @@
 ## boostrap
 
 ## css
-- [ ] brebenel - navbar alignment
 
 ---
 
@@ -70,17 +71,21 @@
 ### animal-app - ON TRACK
 - fix security
 - view pets page
+- add adoption
+- edit pet
 
 ### cake-shop - ON TRACK
 not following standard
 
-### hr-app - behind
+### hr-app - BEHIND
 - fix security
 
 ### mica-piata - BEHIND
 - add docs
 
-### my-home - BLOCKED
+### my-home - BEHIND
+- add docs
+- fix security
 
 ### patent-app - BEHIND
 using localhost 8080

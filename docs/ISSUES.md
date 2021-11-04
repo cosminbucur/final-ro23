@@ -26,6 +26,7 @@
 - ionut - git repo
 - all - git access
 - brebenel - git merge
+- ! david - git revert
 
 ## maven
 - david - dependencies
@@ -59,6 +60,7 @@
 
 ## thymeleaf
 - soul - register not entering breakpoint
+- mihaela - select default option 
 
 ## boostrap
 
@@ -73,6 +75,8 @@
 - view pets page
 - add adoption
 - edit pet
+- donation-add: select product
+- my-donations: WIP
 
 ### cake-shop - ON TRACK
 not following standard
@@ -99,10 +103,12 @@ using localhost 8080
 - add docs
 - fix security
 - fix view register page
+- entities
 
 ### wellness-app - BEHIND
 - add docs
 - fix security
+- [ ] fix styling
 
 ## david QA
 - [ ] big data: splunk

@@ -26,7 +26,7 @@
 - ionut - git repo
 - all - git access
 - brebenel - git merge
-- ! david - git revert
+- david - git revert
 
 ## maven
 - david - dependencies
@@ -77,12 +77,17 @@
 - edit pet
 - donation-add: select product
 - my-donations: WIP
+- fix add donation
+- add design
 
 ### cake-shop - ON TRACK
 not following standard
 
 ### hr-app - BEHIND
 - fix security
+- add design
+- add routing
+- view jobs page
 
 ### mica-piata - BEHIND
 - add docs
@@ -94,6 +99,8 @@ not following standard
 ### patent-app - BEHIND
 using localhost 8080
 - fix security
+- update docs
+- refactor design
 
 ### task-app - BEHIND
 - add docs
@@ -111,8 +118,8 @@ using localhost 8080
 - [ ] fix styling
 
 ## david QA
-- [ ] big data: splunk
-- [ ] databases: plsql in java
-- [ ] http servers: tomcat, wildfly, glassfish, weblogic
-- [ ] CI-CD, devops
-- [ ] logs: cougar
+- big data: splunk
+- databases: plsql in java
+- http servers: tomcat, wildfly, glassfish, weblogic
+- CI-CD, devops
+- logs: cougar

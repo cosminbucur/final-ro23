@@ -1,6 +1,6 @@
 ## PROJECT  agile-app
-## REPO     https://github.com/cosminbucur/final-ro23
-- GIT       cosminbucur
+## REPO     https://github.com/gituser/project
+- GIT       gituser
 
 ---
 
@@ -36,7 +36,7 @@ collaboration - [slack](sdajavaremotero23.slack.com)
 # Design
 The design was made using figma
 
-[figma](https://www.figma.com/files/team/720697583435508813/free-minions?fuid=720697471832871306)
+[figma](https://www.figma.com/)
 
 ---
 

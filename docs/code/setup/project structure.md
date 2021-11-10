@@ -2,16 +2,16 @@
 ```
 docs
     1 plan
-        backlog
-            1 TODO
-                sample.md
-            2 PROGRESS
-                sample.md
-            3 DONE
-                sample.md
+        1 TODO
+            sample.md
+        2 PROGRESS
+            sample.md
+        3 DONE
+            sample.md
         backlog.md
         board.md
     2 design
+        common.drawio
         design.drawio
         routing.drawio
     3 infrastructure

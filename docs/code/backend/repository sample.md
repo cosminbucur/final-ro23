@@ -1,3 +1,8 @@
+# how to implement findAll()    
+    // var 1: jdbc prepared statements
+
+    // var 2: hibernate query
+
     // var 3: spring data jpa repository
     // reservation repository extends jpa repository
 

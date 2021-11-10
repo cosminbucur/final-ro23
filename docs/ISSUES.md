@@ -17,6 +17,7 @@
 ## intellij
 - all - install java 11
 - alin - intellij setup
+- [ ] david - intellij plugin
 
 ## git
 - dana - git changes not showing
@@ -61,8 +62,12 @@
 ## thymeleaf
 - soul - register not entering breakpoint
 - mihaela - select default option 
+- ionut - file upload
+- cristian - mappings
+- david - mappings
 
 ## boostrap
+- [ ] all - validate email
 
 ## css
 
@@ -105,6 +110,7 @@ using localhost 8080
 ### task-app - BEHIND
 - add docs
 - fix security
+- [ ] update project / sprint
 
 ### travel-app - BEHIND
 - add docs
@@ -116,6 +122,8 @@ using localhost 8080
 - add docs
 - fix security
 - [ ] fix styling
+- fix calorie calculator service
+- fix ideal weight service
 
 ## david QA
 - big data: splunk
@@ -123,3 +131,5 @@ using localhost 8080
 - http servers: tomcat, wildfly, glassfish, weblogic
 - CI-CD, devops
 - logs: cougar
+- spring security resources
+- effective java

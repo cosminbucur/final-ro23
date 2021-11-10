@@ -1,3 +1,4 @@
+# how to use the logger
 ```
     private static final Logger log = LoggerFactory.getLogger(ReservationService.class);
 

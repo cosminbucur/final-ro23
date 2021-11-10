@@ -61,10 +61,10 @@
 - learn architecture [architecture sample.drawio]
 - define architecture [architecture.drawio]
 - learn CI/CD pipeline [CI-CD.drawio]
-- [ ] learn database model 
+- learn database model 
     - [database model sample.drawio]
     - [database model sample.mwb]
-- [ ] create database model 
+- create database model 
     - [database model.mwb]
   
 # development environment
@@ -80,14 +80,17 @@
 # development
 - create backend project structure
 - setup code conventions
-    - [ ] [conventions git.md]
-    - [ ] [conventions java.md]
-    - [ ] [conventions thymeleaf.md]
-- [ ] backend tasks [tasks backend.md]
-- [ ] frontend tasks [tasks frontend.md]
-- [ ] implement features [board.md]
-- [ ] enable security
-- [ ] add validations
+    - [conventions git.md]
+    - [conventions java.md]
+    - [conventions thymeleaf.md]
+    - [conventions html.md]    
+    - [conventions css.md]
+    
+- backend tasks [tasks backend.md]
+- frontend tasks [tasks frontend.md]
+- implement features [board.md]
+- enable security
+- add validations
 - [ ] add styling
 - [ ] add extra hard features
 

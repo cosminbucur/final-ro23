@@ -18,14 +18,6 @@
     - submit button "Register"
 
 # backend
-- create schema
-- database connection
-    - spring boot parent
-    - mysql connector
-    - spring data jpa
-
-- maven dependencies
-- main spring boot class
 - entity
     - User
 - repository
